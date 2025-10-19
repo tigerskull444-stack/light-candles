@@ -9,7 +9,11 @@ table {
 collapse;
   
 }
-th, td{border: 3px  solid lightblue;}
+th, td{border: 3px  solid lightblue;
+      width: 40px;
+      hight:40px;
+      
+      }
 nav{
   position: fixed;
   width: 100%;
@@ -26,4 +30,4 @@ nav ul{   background-color: lightblue;
   
 }
 
-#img{width:40px;}
+
