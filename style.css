@@ -10,8 +10,8 @@ collapse;
   
 }
 th, td{border: 3px  solid lightblue;
-      width: 40px;
-      hight:40px;
+      width: 70px;
+      hight:70px;
       
       }
 nav{
@@ -31,3 +31,6 @@ nav ul{   background-color: lightblue;
 }
 
 
+#logo{
+  hight: 70px;
+  width: 70px;}
