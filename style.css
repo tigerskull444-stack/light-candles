@@ -7,6 +7,8 @@ table {
   border: 3px  solid lightblue;
   border-collapse:
 collapse;
+  width: 70px;
+      hight:70px;
   
 }
 th, td{border: 3px  solid lightblue;
